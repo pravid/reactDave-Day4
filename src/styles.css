@@ -1,0 +1,18 @@
+.App {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+}
+
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+li {
+  background-color: #eee;
+  padding: 5px;
+  border: solid 1px #ccc;
+  font-size: 14px;
+  list-style: none;
+}
